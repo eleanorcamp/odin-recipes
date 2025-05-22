@@ -1,0 +1,28 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgb(255, 228, 196);
+    text-align: left;
+    margin: 30px 30px;
+}
+
+.recipe-header{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+ul, ol{
+    margin: 0px auto;
+    text-align: left;
+    list-style-position: inside;
+}
+
+.recipe-description{
+    margin: 90px 0px 0px;
+}
