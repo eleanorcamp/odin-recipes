@@ -26,3 +26,16 @@ ul, ol{
 .recipe-description{
     margin: 90px 0px 0px;
 }
+
+.ingredients-list li{
+    margin: 10px;
+}
+
+.instructions-list{
+    font-size: large;
+}
+
+.instructions-list li{
+    margin: 20px;
+    /* padding: 20px; */
+}
